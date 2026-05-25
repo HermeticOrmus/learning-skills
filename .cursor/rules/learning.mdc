@@ -1,0 +1,28 @@
+---
+description: Learning toolkit — five workflows for learning any technology: roadmap to plan, explain to understand, practice to drill, cheatsheet to retain, compare to choose.
+alwaysApply: false
+---
+
+# Learning workflows
+
+Five workflows for learning a technology. Reach for the one that matches where you are in the arc.
+
+## Roadmap: plan the path
+
+Build a phased learning path: prerequisites, foundation, intermediate, advanced, mastery. Each phase lists topics, practice, and resources. Add milestones, an assessment checklist, common pitfalls, and community. Use at the start, to see the whole journey.
+
+## Explain: understand a concept
+
+Explain one concept from first principles. Start simple, give the problem it solves, the core principles, concrete examples, an analogy, common patterns, gotchas, and a way to practice. Use when one idea is blocking you.
+
+## Practice: drill the skill
+
+Generate progressive exercises: warm-up, core practice, challenge, real-world. For each, a clear task, expected outcome, optional hints, and a worked solution. Use when you understand a concept and need repetition.
+
+## Cheatsheet: retain what you learned
+
+Produce a concise, scannable reference: most common operations, syntax reference, common patterns, gotchas, quick examples. One page if possible. Use to recall a topic you already know.
+
+## Compare: choose between options
+
+Compare tools or approaches across consistent dimensions: overview, a difference table, pros and cons, when to use what, migration path, and a context-aware recommendation. Use when deciding between options.
